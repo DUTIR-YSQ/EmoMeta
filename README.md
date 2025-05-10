@@ -4,7 +4,7 @@ We release our Dataset, a multimodal metaphorical emotion dataset in chinese con
 Our dataset is presented in the DataALL.xlsx file.
 
 ## Cite
-**Lu X, Liu Y, Zhang D, Wu Z, Ren J, Xia F.EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors [C] // Proceedings of the ACM Web Conference 2025.**
+**Lu X, Liu Y, Zhang D, Wu Z, Ren J, Xia F. EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors [C] // Proceedings of the ACM Web Conference 2025.**
 
 ## Example Instance
 
