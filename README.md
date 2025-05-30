@@ -56,7 +56,7 @@ In this example, words are arranged to form a hand giving a thumbs-up, expressin
 
 ## 🔬 Explore More Research from Our Lab
 
-**Important❗**  If you use any of our lab's datasets, please make sure to cite them in the above format❗
+**Important❗**  If you use any of our lab's datasets, please make sure to cite them.  ❗
 
 1. **[MultiMET: A Multimodal Dataset for Metaphor Understanding (ACL 2021)](https://github.com/DUTIR-YSQ/MultiMET)**  
    A foundational multimodal dataset for metaphor understanding, combining text and visual modalities.  
